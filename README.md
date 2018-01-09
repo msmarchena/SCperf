@@ -1,5 +1,5 @@
 # SCperf
-The package implements different inventory models, the bullwhip effect and other supply chain performance variables
+Functions for planning and managing inventories in a supply chain
 
 January 09, 2018
 * Minor changes in notation and more clear explanations of some definitions
