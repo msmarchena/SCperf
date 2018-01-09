@@ -3,5 +3,8 @@ The package implements different inventory models, the bullwhip effect and other
 
 January 09, 2018
 * Minor changes in notation and more clear explanations of some definitions
-* bullwhip function is now deprecated, use 'bullwhipgame' instead
+* bullwhip and SSL functions are now deprecated, use 'bullwhipgame' shiny app instead
 * EPQ function now include planned shortage case
+* The name of the SCperf function has changed to arma.bullwhip
+* The example of the Wagner-Whitin algorithm is better developed
+* New functions included: SS and ROP
