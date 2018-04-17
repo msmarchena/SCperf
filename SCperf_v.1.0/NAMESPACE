@@ -1,1 +1,0 @@
-exportPattern("bullwhip","EOQ","EPQ","Newsboy","SCperf","SSL","WW")
